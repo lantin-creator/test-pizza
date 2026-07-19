@@ -10,12 +10,12 @@ a{
     position: relative;
     width: 100%;
     height: 955px;
-    background-image: url(pizzeria-foto/pizzeria\ background.png);
+    background-image: url(../pizzeria-foto/pizzeria\ background.png);
     background-size: cover;
     background-position: center;
 }
 .logo{
-    background-image: url(pizzeria-foto/pizzeria\ logo.png);
+    background-image: url(../pizzeria-foto/pizzeria\ logo.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -68,7 +68,7 @@ a{
     left: 10%;
     width: 70px;
     height: 70px;
-    background-image: url(pizzeria-foto/hot.png);
+    background-image: url(../pizzeria-foto/hot.png);
     background-size: cover;
     background-position: center;
 }
@@ -78,7 +78,7 @@ a{
     left: 47%;
     width: 70px;
     height: 70px;
-    background-image: url(pizzeria-foto/like.png);
+    background-image: url(../pizzeria-foto/like.png);
     background-size: cover;
     background-position: center;
 }
@@ -88,7 +88,7 @@ a{
     left: 79%;
     width: 70px;
     height: 70px;
-    background-image: url(pizzeria-foto/medal.png);
+    background-image: url(../pizzeria-foto/medal.png);
     background-size: cover;
     background-position: center;
 }
@@ -146,7 +146,7 @@ a{
     width: 52px;
     height: 52px;
     position: static; 
-    background-image: url(pizzeria-foto/shopping-cart.png);
+    background-image: url(../pizzeria-foto/shopping-cart.png);
     background-size: cover;
     background-position: center;
 }
@@ -184,7 +184,7 @@ a{
     right: 30px;       
     width: 50px;       
     height: 50px; 
-    background-image: url(pizzeria-foto/up-button.png);
+    background-image: url(../pizzeria-foto/up-button.png);
     background-size: cover;
     background-position: center;
     border-radius: 5px;
@@ -201,7 +201,7 @@ a{
 .popular1-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/pepperoni-pizza.png);
+    background-image: url(../pizzeria-foto/pepperoni-pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -251,7 +251,7 @@ a{
 .popular2-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/4\ Cheese\ Pizza.png);
+    background-image: url(../pizzeria-foto/4\ Cheese\ Pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -301,7 +301,7 @@ a{
 .popular3-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Hawaiian\ pizza.png);
+    background-image: url(../pizzeria-foto/Hawaiian\ pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -356,7 +356,7 @@ a{
 .pizza1-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/pepperoni-pizza.png);
+    background-image: url(../pizzeria-foto/pepperoni-pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -406,7 +406,7 @@ a{
 .pizza2-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/4\ Cheese\ Pizza.png);
+    background-image: url(../pizzeria-foto/4\ Cheese\ Pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -456,7 +456,7 @@ a{
 .pizza3-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Hawaiian\ pizza.png);
+    background-image: url(../pizzeria-foto/Hawaiian\ pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -512,7 +512,7 @@ a{
 .snacks1-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/french\ fries.png);
+    background-image: url(../pizzeria-foto/french\ fries.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -562,7 +562,7 @@ a{
 .snacks2-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Nuggets.png);
+    background-image: url(../pizzeria-foto/Nuggets.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -612,7 +612,7 @@ a{
 .snacks3-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Onion\ rings.png);
+    background-image: url(../pizzeria-foto/Onion\ rings.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -668,7 +668,7 @@ a{
 .Drinks1-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/cola.png);
+    background-image: url(../pizzeria-foto/cola.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -718,7 +718,7 @@ a{
 .Drinks2-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Fanta.png);
+    background-image: url(../pizzeria-foto/Fanta.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -768,7 +768,7 @@ a{
 .Drinks3-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/sprite.png);
+    background-image: url(../pizzeria-foto/sprite.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -824,7 +824,7 @@ a{
 .Desserts1-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/ice\ cream.png);
+    background-image: url(../pizzeria-foto/ice\ cream.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -874,7 +874,7 @@ a{
 .Desserts2-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/tiramisu.png);
+    background-image: url(../pizzeria-foto/tiramisu.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -924,7 +924,7 @@ a{
 .Desserts3-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Snickers\ Cheesecake.png);
+    background-image: url(../pizzeria-foto/Snickers\ Cheesecake.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -980,7 +980,7 @@ a{
 .sauces1-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/cheese\ sauce.png);
+    background-image: url(../pizzeria-foto/cheese\ sauce.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1030,7 +1030,7 @@ a{
 .sauces2-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/BBQ\ sauce.png);
+    background-image: url(../pizzeria-foto/BBQ\ sauce.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1080,7 +1080,7 @@ a{
 .sauces3-imge{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Thousand\ Island\ Sauce.png);
+    background-image: url(../pizzeria-foto/Thousand\ Island\ Sauce.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1136,7 +1136,7 @@ a{
 .Combo1-imge1{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/cheese\ sauce.png);
+    background-image: url(../pizzeria-foto/cheese\ sauce.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1146,7 +1146,7 @@ a{
 .Combo1-imge2{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/pepperoni-pizza.png);
+    background-image: url(../pizzeria-foto/pepperoni-pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1197,7 +1197,7 @@ a{
 .Combo2-imge1{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/BBQ\ sauce.png);
+    background-image: url(../pizzeria-foto/BBQ\ sauce.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1207,7 +1207,7 @@ a{
 .Combo2-imge2{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Hawaiian\ pizza.png);
+    background-image: url(../pizzeria-foto/Hawaiian\ pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1258,7 +1258,7 @@ a{
 .Combo3-imge1{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/Thousand\ Island\ Sauce.png);
+    background-image: url(../pizzeria-foto/Thousand\ Island\ Sauce.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1268,7 +1268,7 @@ a{
 .Combo3-imge2{
     width: 200px;
     height: 200px;
-    background-image: url(pizzeria-foto/4\ Cheese\ Pizza.png);
+    background-image: url(../pizzeria-foto/4\ Cheese\ Pizza.png);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -1316,7 +1316,7 @@ a{
     position: absolute; 
     top: 2%; 
     left: 95%; 
-    background-image: url(pizzeria-foto/user.png); 
+    background-image: url(../pizzeria-foto/user.png); 
     background-size: cover;
     background-position: center;
     width: 72px; 
@@ -1351,7 +1351,7 @@ a{
     left: 5%;
     width: 50px;
     height: 50px;
-    background-image: url(pizzeria-foto/user2.png);
+    background-image: url(../pizzeria-foto/user2.png);
     background-size: cover;
     background-position: center;
 }
@@ -1369,7 +1369,7 @@ a{
     position: absolute;
     top: 13.5%;
     left: 68%;
-    background-image: url(pizzeria-foto/star.png);
+    background-image: url(../pizzeria-foto/star.png);
     background-size: cover;
     background-position: center;
 }
@@ -1379,7 +1379,7 @@ a{
     position: absolute;
     top: 13.5%;
     left: 74%;
-    background-image: url(pizzeria-foto/star.png);
+    background-image: url(../pizzeria-foto/star.png);
     background-size: cover;
     background-position: center;
 }
@@ -1389,7 +1389,7 @@ a{
     position: absolute;
     top: 13.5%;
     left: 80%;
-    background-image: url(pizzeria-foto/star.png);
+    background-image: url(../pizzeria-foto/star.png);
     background-size: cover;
     background-position: center;
 }
@@ -1399,7 +1399,7 @@ a{
     position: absolute;
     top: 13.5%;
     left: 86%;
-    background-image: url(pizzeria-foto/star.png);
+    background-image: url(../pizzeria-foto/star.png);
     background-size: cover;
     background-position: center;
 }
@@ -1409,7 +1409,7 @@ a{
     position: absolute;
     top: 13.5%;
     left: 92%;
-    background-image: url(pizzeria-foto/star.png);
+    background-image: url(../pizzeria-foto/star.png);
     background-size: cover;
     background-position: center;
 }
@@ -1456,7 +1456,7 @@ a{
     position: absolute;
     top: 50%;
     left: 30%;
-    background-image: url(pizzeria-foto/instagram.png);
+    background-image: url(../pizzeria-foto/instagram.png);
     background-size: cover;
     background-position: center;
     width: 30px;
@@ -1467,7 +1467,7 @@ a{
     position: absolute;
     top: 50%;
     left: 32%;
-    background-image: url(pizzeria-foto/youtube.png);
+    background-image: url(../pizzeria-foto/youtube.png);
     background-size: cover;
     background-position: center;
     width: 30px;
@@ -1478,7 +1478,7 @@ a{
     position: absolute;
     top: 50%;
     left: 34%;
-    background-image: url(pizzeria-foto/twiter.png);
+    background-image: url(../pizzeria-foto/twiter.png);
     background-size: cover;
     background-position: center;
     width: 30px;
@@ -1489,7 +1489,7 @@ a{
     position: absolute;
     top: 50%;
     left: 36%;
-    background-image: url(pizzeria-foto/tg.png);
+    background-image: url(../pizzeria-foto/tg.png);
     background-size: cover;
     background-position: center;
     width: 30px;
